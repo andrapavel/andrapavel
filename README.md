@@ -9,7 +9,7 @@
                 </a>
             </li>
             <li>
-                <a href="https://github.com/Taveeh/Algorithms-and-Programming">
+                <a href=https://github.com/andrapavel/Algorithms-and-Programming.git>
                     :snake: Algorithms and Programming (AP)
                 </a>
             </li>
