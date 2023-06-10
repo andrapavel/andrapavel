@@ -4,7 +4,7 @@
     <li>:closed_book: Semester 1
         <ul>
             <li>
-                <a href="https://github.com/Andra/Algebra-1">
+                <a href="https://github.com/andrapavel/Algebra-1">
                     :heavy_division_sign: Algebra 1: Linear Algebra
                 </a>
             </li>
