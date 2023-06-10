@@ -41,7 +41,7 @@
         <ul>
             <li>
                 <a href="https://github.com/andrapavel/Calculus-2">
-                    :heavy_minus_sign: Calculus 2: (Differential and Integral Calculus in R^n
+                    :heavy_minus_sign: Calculus 2: Differential and Integral Calculus in R^n
                 </a>
             </li>
         </ul>
