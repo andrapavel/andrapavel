@@ -61,7 +61,7 @@
         </ul>
          <ul>
             <li>
-                <a href="https://github.com/andrapavel/Object-Oriented-Programming">
+                <a href="https://github.com/andrapavel/Object-Oriented-Programming.git">
                     :penguin: Object Oriented Programming (OOP)
                 </a>
             </li>
