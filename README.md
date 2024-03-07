@@ -67,6 +67,12 @@
             </li>
         </ul>
     </li>
+    <li>:closed_book: Semester 3
+    <ul>
+        
+    </ul>
+        
+    </li>
 </ul>
 
 ![Andra's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrapavel&show_icons=true&theme=cobalt)
