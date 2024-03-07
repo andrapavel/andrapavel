@@ -74,9 +74,42 @@
                     :computer: Advanced Programming Methods
                 </a>
             </li>
-        
         </ul>
-        
+        <ul>
+            <li>
+                <a href="https://github.com/andrapavel/Algebra-1">
+                    :crystal_ball: Complex Analysis
+                </a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a href="https://github.com/andrapavel/Algebra-1">
+                    :electric_plug: Computer Networks
+                </a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a href="https://github.com/andrapavel/Algebra-1">
+                    :paperclip: Computer Systems Architecture
+                </a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a href="https://github.com/andrapavel/Algebra-1">
+                    :bar_chart: Databases
+                </a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a href="https://github.com/andrapavel/Algebra-1">
+                    :gun: Differential Equations
+                </a>
+            </li>
+        </ul>
     </li>
 </ul>
 
