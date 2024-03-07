@@ -67,7 +67,7 @@
             </li>
         </ul>
     </li>
-    <li>:closed_book: Semester 3
+    <li>:orange_book: Semester 3
         <ul>
             <li>
                 <a href="https://github.com/andrapavel/Algebra-1">
