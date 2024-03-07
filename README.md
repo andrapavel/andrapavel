@@ -68,9 +68,14 @@
         </ul>
     </li>
     <li>:closed_book: Semester 3
-    <ul>
+        <ul>
+            <li>
+                <a href="https://github.com/andrapavel/Algebra-1">
+                    :computer: Advanced Programming Methods
+                </a>
+            </li>
         
-    </ul>
+        </ul>
         
     </li>
 </ul>
