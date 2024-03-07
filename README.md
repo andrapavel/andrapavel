@@ -47,7 +47,7 @@
         </ul>
         <ul>
             <li>
-                <a href="https://github.com/andrapavel/Data-Structures">
+                <a href="https://github.com/andrapavel/Data-Structures.git">
                     :date: Data Structures (DS)
                 </a>
             </li>
